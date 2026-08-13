@@ -67,7 +67,7 @@ This project uses data analysis to answer these questions and support evidence-b
 
 * **SQL** — Data aggregation, filtering, grouping and business analysis
 * **Microsoft Excel** — Data preparation, calculations and exploratory analysis
-* **Power BI** — Interactive dashboards and data visualization
+* **Microsoft ExcelI** — Interactive dashboards and data visualization
 * **DAX** — KPI calculations and analytical measures
 
 ---
